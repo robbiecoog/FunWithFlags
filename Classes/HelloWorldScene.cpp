@@ -4,6 +4,7 @@
 #include "ui/CocosGUI.h"
 
 USING_NS_CC;
+//Test Comment. Can you see me?  CAN YOU?!
 
 #define COCOS2D_DEBUG 1
 using namespace cocostudio::timeline;
