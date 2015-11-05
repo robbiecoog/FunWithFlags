@@ -3,6 +3,7 @@
 #include "SimpleAudioEngine.h"
 
 USING_NS_CC;
+//Here's a different test comment!
 
 AppDelegate::AppDelegate() {
 
